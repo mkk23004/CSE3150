@@ -15,4 +15,4 @@ In the `averageGPA` logic within `main`, I used `static_cast<int>` to convert th
 I implemented error handling using `try-catch` blocks. The program throws exceptions as `const char*` strings if the user tries to add a student when the array is at full capacity, or if they attempt to calculate an average when the list is empty.
 
 ### Control Flow
-The program uses a `do-while` loop to keep the menu active until the user chooses to quit. Inside the loop, a `switch` statement handles the different menu options, ensuring clean and organized logic for each mode.# CSE3150
+The program uses a `do-while` loop to keep the menu active until the user chooses to quit. Inside the loop, a `switch` statement handles the different menu options, ensuring clean and organized logic for each mode.
